@@ -1,1 +1,4 @@
-print("hello Github")
+def pr():
+    print("hello Github")
+
+pr
